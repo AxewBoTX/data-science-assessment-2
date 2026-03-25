@@ -19,6 +19,7 @@
 		  ipykernel
 		  jupyter-server
 		  scikit-learn
+		  scipy
         ]);
     };
   in {

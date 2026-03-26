@@ -20,6 +20,7 @@
 		  jupyter-server
 		  scikit-learn
 		  scipy
+		  seaborn
         ]);
     };
   in {

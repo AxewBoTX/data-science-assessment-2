@@ -30,6 +30,7 @@
         pkgs.pkg-config
         python.env
         pkgs.black
+		pkgs.zip
       ];
       buildInputs = [];
       shellHook = "zsh";
